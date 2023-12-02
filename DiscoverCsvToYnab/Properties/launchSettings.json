@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DiscoverCsvToYnab": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\JasonSpecland\\Downloads\\Discover-Statement-20231120.csv\""
+    }
+  }
+}
